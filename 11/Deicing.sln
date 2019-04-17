@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeicingWebApi", "DeicingWebApi\DeicingWebApi.csproj", "{CD7F3208-23D6-452B-BACC-C89C89D9F432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeicingApp", "DeicingApp\DeicingApp.csproj", "{96A56987-2D5F-4188-84AD-C6E85DD3B11C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD7F3208-23D6-452B-BACC-C89C89D9F432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7F3208-23D6-452B-BACC-C89C89D9F432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7F3208-23D6-452B-BACC-C89C89D9F432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7F3208-23D6-452B-BACC-C89C89D9F432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A56987-2D5F-4188-84AD-C6E85DD3B11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A56987-2D5F-4188-84AD-C6E85DD3B11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A56987-2D5F-4188-84AD-C6E85DD3B11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A56987-2D5F-4188-84AD-C6E85DD3B11C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {626AB596-7734-4C40-AE12-A1F9FC4D11C3}
+	EndGlobalSection
+EndGlobal
